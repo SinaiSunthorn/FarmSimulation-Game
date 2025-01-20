@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3e5bce6e642da741975e84850bfebfb, type: 3}
+  m_Name: MoonFlower
+  m_EditorClassIdentifier: 
+  plantName: Moon Flower
+  plantStages:
+  - {fileID: -596773373364728228, guid: a32bffa4b1c2e044da408ce399061e39, type: 3}
+  - {fileID: -5857830791015273056, guid: 29357267f04c27145adad76edb23d601, type: 3}
+  - {fileID: 7118824193458954806, guid: 86322670b8e1ec042bc1b7f42a49ae54, type: 3}
+  - {fileID: 8059509049722432943, guid: 145573aa11c5ef2438c24a0a17d64640, type: 3}
+  - {fileID: -6091675565117977341, guid: e341a7ca8d9580349ae4699568051fb0, type: 3}
+  timeBtwStages: 100
+  BuyPrice: 100
+  SellPrice: 500
+  DiePrice: -500
+  dryPlanted: {fileID: -4943352394623894318, guid: 44bf37ab6f47aa140b84164a4ae940c3, type: 3}

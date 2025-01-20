@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3e5bce6e642da741975e84850bfebfb, type: 3}
+  m_Name: BloodBerry
+  m_EditorClassIdentifier: 
+  plantName: Blood Berry
+  plantStages:
+  - {fileID: -3780498461408796120, guid: a32bffa4b1c2e044da408ce399061e39, type: 3}
+  - {fileID: -6320483013987127507, guid: cc4b623ac4772d94e9c1a787f44d1d64, type: 3}
+  - {fileID: 3541233710076567470, guid: 50e6b1c22bb67ba46b527fde9c99428a, type: 3}
+  - {fileID: -6126125575660262103, guid: a8fb397778b25b24ea85be59ad0b3720, type: 3}
+  - {fileID: -6928536824162486010, guid: 083a27c6c36416e4fb8e7d145f9d2a7b, type: 3}
+  timeBtwStages: 250
+  BuyPrice: 1000
+  SellPrice: 2000
+  DiePrice: 3000
+  dryPlanted: {fileID: -6722333681955717557, guid: 44bf37ab6f47aa140b84164a4ae940c3, type: 3}
